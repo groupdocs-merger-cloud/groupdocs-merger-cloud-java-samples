@@ -1,4 +1,4 @@
-## GroupDocs.Merger Cloud SDK for Java
+## GroupDocs.Merger Cloud SDK for Java Examples
 
 This repository contains [Examples](Examples) projects for [GroupDocs.Merger Cloud SDK for Java](https://products.groupdocs.cloud/merger/java) to help you learn and write your own applications.
 
