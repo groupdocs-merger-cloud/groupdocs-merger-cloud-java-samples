@@ -7,14 +7,14 @@
     <repository>
 	    <id>groupdocs-artifact-repository</id>
 	    <name>GroupDocs Artifact Repository</name>
-	    <url>https://repository-qa.groupdocs.cloud/repo</url>
+	    <url>https://repository.groupdocs.cloud/repo</url>
 	</repository>
 </repositories>
  <dependencies>  	
 	<dependency>
     	<groupId>com.groupdocs</groupId>
     	<artifactId>groupdocs-merger-cloud</artifactId>
-    	<version>19.9</version>
+    	<version>19.10</version>
     	<scope>compile</scope>
 	</dependency>
   </dependencies>
