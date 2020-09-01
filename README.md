@@ -15,10 +15,4 @@ Directory | Description
 --------- | -----------
 [Examples](Examples)  | A collection of Java Cloud SDK examples that help you learn the product features
 
-## Resources
-
-+ **Website:** [www.groupdocs.cloud](http://www.groupdocs.cloud)
-+ **Product Home:** [GroupDocs.Merger Cloud SDK for Java](https://products.groupdocs.cloud/merger/java)
-+ **Documentation:** [GroupDocs.Merger Cloud SDK Documentation](https://docs.groupdocs.cloud/display/mergercloud/Home)
-+ **Free Support:** [GroupDocs.Merger Cloud SDK Free Support Forum](https://forum.groupdocs.cloud/c/merger)
-+ **Blog:** [GroupDocs.Merger Cloud SDK Blog](https://blog.groupdocs.cloud/category/merger)
+[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/merger/java) | [Docs](https://docs.groupdocs.cloud/merger/) | [Demos](https://products.groupdocs.app/merger/family) | [API Reference](https://apireference.groupdocs.cloud/merger/) | [Source Code](https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-java) | [Blog](https://blog.groupdocs.cloud/category/merger/) | [Free Support](https://forum.groupdocs.cloud/c/merger) | [Free Trial](https://purchase.groupdocs.cloud/trial)
