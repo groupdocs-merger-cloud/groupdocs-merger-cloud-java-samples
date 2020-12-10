@@ -1,18 +1,44 @@
-## GroupDocs.Merger Cloud SDK for Java Examples
+# GroupDocs.Merger Cloud SDK for Java Examples
 
-This repository contains [Examples](Examples) projects for [GroupDocs.Merger Cloud SDK for Java](https://products.groupdocs.cloud/merger/java) to help you learn and write your own applications.
+This repository contains [Examples](Examples) projects for [GroupDocs.Merger Cloud SDK for Java](https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-java) to help you learn and write your own applications.
 
-[GroupDocs.Merger Cloud SDK for Java](https://products.groupdocs.cloud/merger/java) allows you to merge documents and manipulate document structure across wide range of supported document types - PDF, DOCX/DOC, PPTX/PPT, XLSX/XLS, VSDX/VSD, ODT, ODS, ODP, HTML, EPUB and many others. Merge several documents into one, split single document to multiple documents, reorder or replace document pages, change page orientation, manage document password and perform other manipulations with [GroupDocs.Merger Cloud API](https://products.groupdocs.cloud/merger). GroupDocs.Merger Cloud SDK for Java has been developed to help you integrate all these features in your Java application without any hassle.
+[GroupDocs.Merger Cloud SDK for Java](https://products.groupdocs.cloud/merger/java) allows you to work with [GroupDocs.Merger Cloud API](https://products.groupdocs.cloud/merger) REST APIs in your Java applications.
 
 <p align="center">
-
-  <a title="Download complete GroupDocs.Merger Cloud SDK Examples for Java source code" href="https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-java-samples/archive/master.zip">
+  <a title="Download complete GroupDocs.Merger Cloud SDK Java Example source code" href="https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-java-samples/archive/master.zip">
 	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
   </a>
 </p>
 
-Directory | Description
---------- | -----------
-[Examples](Examples)  | A collection of Java Cloud SDK examples that help you learn the product features
+## Prerequisites
 
-[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/merger/java) | [Docs](https://docs.groupdocs.cloud/merger/) | [Demos](https://products.groupdocs.app/merger/family) | [API Reference](https://apireference.groupdocs.cloud/merger/) | [Source Code](https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-java) | [Blog](https://blog.groupdocs.cloud/category/merger/) | [Free Support](https://forum.groupdocs.cloud/c/merger) | [Free Trial](https://purchase.groupdocs.cloud/trial)
++ Java SE Development Kit 8
++ GroupDocs.Merger Cloud SDK for Java.
++ Get your ClientId and ClientSecret at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
+
+## How to Run the Examples
+
+The package contains Java examples. Follow the given steps to proceed with project build:
+
++ Extract the downloaded project
++ Open project in your IDE
++ Edit RunExamples.java and put ClientId and ClientSecret, obtained from https://dashboard.groupdocs.cloud there
++ Build and Run
+
+For more details, visit  [Getting Started](https://docs.groupdocs.cloud/merger/getting-started/).
+
+## Licensing
+
+All GroupDocs.Merger Cloud SDKs are licensed under [MIT License](LICENSE).
+
+## Resources
+
++ [**Website**](https://www.groupdocs.cloud)
++ [**Product Home**](https://products.groupdocs.cloud/merger)
++ [**Documentation**](https://docs.groupdocs.cloud/merger/)
++ [**Free Support Forum**](https://forum.groupdocs.cloud/c/merger)
++ [**Blog**](https://blog.groupdocs.cloud/category/merger)
+
+## Contact Us
+
+Your feedback is very important to us. Please feel free to contact us using our [Support Forums](https://forum.groupdocs.cloud/c/merger).
