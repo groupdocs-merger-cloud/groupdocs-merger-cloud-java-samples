@@ -3,7 +3,6 @@ package examples;
 import com.groupdocs.cloud.merger.client.*;
 import com.groupdocs.cloud.merger.model.*;
 import com.groupdocs.cloud.merger.api.InfoApi;
-import examples.Common;
 
 /**
  * This example demonstrates how to obtain all supported file types.

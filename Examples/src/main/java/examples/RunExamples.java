@@ -1,23 +1,10 @@
 package examples;
 
-import examples.DocumentOperations.JoinMultipleDocuments;
-import examples.DocumentOperations.JoinPagesFromVariousDocuments;
-import examples.DocumentOperations.PreviewDocument;
-import examples.DocumentOperations.SplitDocument.SplitToMultiPageDocuments;
-import examples.DocumentOperations.SplitDocument.SplitToSinglePages;
-import examples.DocumentOperations.SplitDocument.SplitToSinglePagesByRange;
-import examples.DocumentOperations.SplitDocument.SplitToSinglePagesByRangeWithFilter;
-import examples.PagesOperations.ChangePageOrientation;
-import examples.PagesOperations.MovePage;
-import examples.PagesOperations.RemovePages;
-import examples.PagesOperations.RotatePages;
-import examples.PagesOperations.SwapPages;
-import examples.PagesOperations.ExtractPages.ExtractPagesByNumbers;
-import examples.PagesOperations.ExtractPages.ExtractPagesByRange;
-import examples.SecurityOperations.AddDocumentPassword;
-import examples.SecurityOperations.CheckDocumentPasswordProtection;
-import examples.SecurityOperations.RemoveDocumentPassword;
-import examples.SecurityOperations.UpdateDocumentPassword;
+import examples.DocumentOperations.*;
+import examples.DocumentOperations.SplitDocument.*;
+import examples.PagesOperations.*;
+import examples.PagesOperations.ExtractPages.*;
+import examples.SecurityOperations.*;
 
 public class RunExamples {
 
@@ -33,11 +20,13 @@ public class RunExamples {
 		// Document API examples
 		JoinMultipleDocuments.main(args);
 		JoinPagesFromVariousDocuments.main(args);
+		JoinDocumentsCrossFormat.main(args);
 		PreviewDocument.main(args);
 		SplitToMultiPageDocuments.main(args);
 		SplitToSinglePages.main(args);
 		SplitToSinglePagesByRange.main(args);
 		SplitToSinglePagesByRangeWithFilter.main(args);
+		ImportAttachment.main(args);
 
 		// Pages API examples
 		ChangePageOrientation.main(args);

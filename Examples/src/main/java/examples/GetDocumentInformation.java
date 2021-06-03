@@ -4,7 +4,6 @@ import com.groupdocs.cloud.merger.client.*;
 import com.groupdocs.cloud.merger.model.*;
 import com.groupdocs.cloud.merger.model.requests.*;
 import com.groupdocs.cloud.merger.api.*;
-import examples.Common;
 
 /**
  * This example demonstrates how to get document info.

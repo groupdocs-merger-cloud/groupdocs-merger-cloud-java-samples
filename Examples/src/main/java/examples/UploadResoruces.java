@@ -11,7 +11,7 @@ public class UploadResoruces {
 
 	public static FileApi fileApi = new FileApi(Common.GetConfiguration());
 
-	public static String resourcesPath = Paths.get("examples\\src\\main\\resources").toAbsolutePath().toString();
+	public static String resourcesPath = Paths.get("src\\main\\resources").toAbsolutePath().toString();
 
 	public static void main(String[] args) {
 		try {
