@@ -19,6 +19,7 @@ public class RunExamples {
 
 		// Document API examples
 		JoinMultipleDocuments.main(args);
+		JoinWordDocumentsContinous.main(args);
 		JoinPagesFromVariousDocuments.main(args);
 		JoinDocumentsCrossFormat.main(args);
 		PreviewDocument.main(args);
