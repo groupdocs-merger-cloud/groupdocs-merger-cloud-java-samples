@@ -11,14 +11,14 @@
 		<repository>
 			<id>groupdocs-artifact-repository</id>
 			<name>GroupDocs Artifact Repository</name>
-			<url>https://repository.groupdocs.cloud/repo</url>
+			<url>https://releases.groupdocs.cloud/java/repo/</url>
 		</repository>
 	</repositories>
 	<dependencies>  	
 		<dependency>
 			<groupId>com.groupdocs</groupId>
 			<artifactId>groupdocs-merger-cloud</artifactId>
-			<version>22.5</version>
+			<version>23.2</version>
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>

@@ -22,6 +22,7 @@ public class RunExamples {
 		JoinWordDocumentsContinous.main(args);
 		JoinPagesFromVariousDocuments.main(args);
 		JoinDocumentsCrossFormat.main(args);
+		JoinImages.main(args);
 		PreviewDocument.main(args);
 		SplitToMultiPageDocuments.main(args);
 		SplitToSinglePages.main(args);
