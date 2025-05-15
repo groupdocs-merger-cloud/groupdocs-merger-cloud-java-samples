@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>com.groupdocs</groupId>
 			<artifactId>groupdocs-merger-cloud</artifactId>
-			<version>24.11</version>
+			<version>25.5</version>
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
