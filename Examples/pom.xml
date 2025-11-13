@@ -3,10 +3,6 @@
 	<groupId>merger-cloud-java-examples</groupId>
 	<artifactId>merger-cloud-java-examples</artifactId>
 	<version>1.0</version>
-	<properties>
-		<maven.compiler.source>6</maven.compiler.source>
-		<maven.compiler.target>1.6</maven.compiler.target>
-	</properties>	
 	<repositories>
 		<repository>
 			<id>groupdocs-artifact-repository</id>
@@ -18,7 +14,7 @@
 		<dependency>
 			<groupId>com.groupdocs</groupId>
 			<artifactId>groupdocs-merger-cloud</artifactId>
-			<version>25.5</version>
+			<version>25.11</version>
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
